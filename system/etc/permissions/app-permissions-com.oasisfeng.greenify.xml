@@ -5,11 +5,11 @@
     <permission name="android.permission.GET_APP_OPS_STATS"/>
     <permission name="android.permission.DUMP"/>
     <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
-    <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
-    <permission name="android.permission.WAKE_LOCK" />
-     <permission name="android.permission.FOREGROUND_SERVICE" />
+    <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <permission name="android.permission.WAKE_LOCK"/>
+    <permission name="android.permission.FOREGROUND_SERVICE"/>
     <permission name="android.permission.FORCE_STOP_PACKAGES"/>
     <permission name="android.permission.INTERACT_ACROSS_USERS"/>
-    <permission name="android.permission.READ_LOGS"/>>
+    <permission name="android.permission.READ_LOGS"/>
   </app-permissions>
 </permissions>
